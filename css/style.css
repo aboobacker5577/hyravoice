@@ -30,15 +30,15 @@ header .mega-menu .badge.badge-danger {
 header .mega-menu .menu-logo > li > a img {
 	width: auto;
 	position: relative;
-	top: 0;
-	left: 0;
+	top: -10px;
+	left: -50px;
 	bottom: 0;
-	height: 40px;
+	height: 130px;
 	margin-top: 6px;
 }
 
 header .mega-menu.desktopTopFixed .menu-logo > li > a img {
-	height: 35px;
+	height: 70px;
 	margin-top: 8px;
 }
 
@@ -3709,7 +3709,7 @@ Iq Pproject Info
 	font-size: 40px;
 	color: #ffffff;
 	float: right;
-	background:#0080e0;
+	background:#69b22c;
 	line-height: 60px;
 	height: 60px;
 	width: 60px;
@@ -5125,7 +5125,7 @@ How work section
 .iq-portfolio.block{border-radius: 20px;}
 
 
-.iq-slolution-details.seo:hover{background: #7c60d5; color: #ffffff;}
+.iq-slolution-details.seo:hover{background: #69b22c; color: #ffffff;}
 .iq-slolution-details.seo:hover h5{color: #ffffff;}
 
 .iq-slolution-details.seo .icon i{    background: rgba(124, 96, 213, 0.2);
